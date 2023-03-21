@@ -248,18 +248,19 @@ section {
 }
 #AudioFather {
     text-align: center;
+    
 }
 
 #myAudio{
-    top: 90%;
-    left: 92%;
-    width: 200px;
-    padding: 5px;
+    top: 80%;
+    left: 90.5%;
+    width: 100px;
+    padding: 30px;
     position: fixed;
     margin: auto;
     background: linear-gradient(125deg,
             rgb(151, 101, 39) 19%,
             black 94%);
-    border-radius: 30px;
+    border-radius: 50px;
     box-shadow: 5px 5px 5px black;
 }
